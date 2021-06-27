@@ -1,1 +1,9 @@
-/* give your assignment a fun background color */
+/* Give your assignment a fun background color */
+
+body {
+  background-color: lightpink;
+}
+
+header, h1, h2, h3, ul, li {
+  color: forestgreen;
+}
